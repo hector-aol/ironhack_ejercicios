@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.6">
+  <diagram name="Page-1" id="Rl2L4598PrpttV1tj04x">
+    <mxGraphModel dx="1611" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-1" target="T9hvmBrvEJ5OEZfCzHIX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-2" target="T9hvmBrvEJ5OEZfCzHIX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-2" value="Importar reduce desde functools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-3" target="T9hvmBrvEJ5OEZfCzHIX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-3" value="Obtener lista de diccionarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-4" target="T9hvmBrvEJ5OEZfCzHIX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-4" value="Calcular suma total de edades con reduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-5" target="T9hvmBrvEJ5OEZfCzHIX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-5" value="Calcular promedio suma/len lista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-6" target="T9hvmBrvEJ5OEZfCzHIX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-6" value="recorrer lista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-8" target="T9hvmBrvEJ5OEZfCzHIX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-8" value="Añadir clave &amp;gt; promedio a cada diccionario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-9" target="T9hvmBrvEJ5OEZfCzHIX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-9" target="T9hvmBrvEJ5OEZfCzHIX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-9" value="edad &amp;gt; promedio" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-10" target="T9hvmBrvEJ5OEZfCzHIX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-10" value="True" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="890" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-11" target="T9hvmBrvEJ5OEZfCzHIX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-11" value="False" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="890" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-12" target="T9hvmBrvEJ5OEZfCzHIX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-12" value="Actualizar diccionario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1010" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-13" target="T9hvmBrvEJ5OEZfCzHIX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.5" y="1190" as="sourcePoint" />
+            <mxPoint x="389.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-13" value="Ultimo elemento?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1110" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9hvmBrvEJ5OEZfCzHIX-14" target="T9hvmBrvEJ5OEZfCzHIX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-14" value="Devolver lista modificada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1310" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-15" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-21" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="575" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-24" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="870" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-26" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-36" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9hvmBrvEJ5OEZfCzHIX-37" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1270" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
