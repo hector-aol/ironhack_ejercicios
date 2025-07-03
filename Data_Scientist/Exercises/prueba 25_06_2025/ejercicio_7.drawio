@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 OPR/119.0.0.0" version="27.1.6">
+  <diagram name="Page-1" id="3qGxqmriSCyV0ARZ8PoI">
+    <mxGraphModel dx="1611" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwC7uGNS3KKKYP91N2Te-1" target="gwC7uGNS3KKKYP91N2Te-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwC7uGNS3KKKYP91N2Te-2" target="gwC7uGNS3KKKYP91N2Te-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-2" value="Obtener diccionario de usuarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwC7uGNS3KKKYP91N2Te-3" target="gwC7uGNS3KKKYP91N2Te-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-3" value="Filtrar usuarios &amp;gt;= 18 con filtro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwC7uGNS3KKKYP91N2Te-4" target="gwC7uGNS3KKKYP91N2Te-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-4" value="Convertir items filtrados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="340" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwC7uGNS3KKKYP91N2Te-5" target="gwC7uGNS3KKKYP91N2Te-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-5" value="Construir lista de diccionarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gwC7uGNS3KKKYP91N2Te-6" target="gwC7uGNS3KKKYP91N2Te-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-6" value="Devolver lista resultante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="540" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwC7uGNS3KKKYP91N2Te-7" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
