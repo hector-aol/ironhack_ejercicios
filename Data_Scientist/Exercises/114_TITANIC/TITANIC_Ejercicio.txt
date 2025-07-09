@@ -1,0 +1,59 @@
+Preguntas que yo me haría sobre el dataset del titanic...
+¿Cuál fue la edad promedio por clase de billete (Pclass)?
+¿Qué sexo predominaba en cada clase?
+¿Qué tasa de supervivencia tuvo cada clase?
+¿Cuál fue el precio promedio del billete (Fare) por clase?
+¿Qué clase tenía más familias grandes (según SibSp + Parch)?
+¿Cuál es la edad promedio general y por sexo?
+¿Cuál es la edad más frecuente por puerto de embarque (Embarked)?
+¿Los niños pequeños (por ejemplo, <10 años) sobrevivieron más?
+¿A qué edad se encontraba el mayor número de pasajeros fallecidos?
+¿Cómo varía la distribución de edad entre supervivientes y fallecidos?
+¿Qué puerto embarcó más pasajeros?
+¿Qué clase de billete predominaba en cada puerto?
+¿Qué puerto embarcó más mujeres que hombres?
+¿Qué puerto tenía la mayor tasa de supervivencia?
+¿Desde qué puerto partieron más personas con familia a bordo?
+¿Viajaban más personas solas o acompañadas?
+¿Cuál era el tamaño de grupo familiar más común?
+¿Los que viajaban en familia sobrevivieron más que los que iban solos?
+¿Había alguna relación entre el tamaño de la familia y la clase del billete?
+¿Cómo varía el Fare según Pclass y Embarked?
+¿Cuál es el Fare promedio por clase y puerto?
+¿Hay pasajeros con tarifas inusualmente altas? ¿Quiénes eran?
+¿Cuál es la relación entre Fare y probabilidad de supervivencia?
+¿Cuál fue la tasa de supervivencia por sexo?
+¿Cuál fue la edad promedio de mujeres vs. hombres?
+¿Qué sexo predominaba en cada clase?
+¿Hubo más mujeres embarcadas en algún puerto específico?
+¿Cuál fue el pasajero más joven que murió?
+¿Quién pagó el billete más caro y en qué clase iba?
+¿Había niños viajando solos? ¿Sobrevivieron?
+¿Qué título (Mr., Mrs., Miss...) tenía mayor tasa de supervivencia?
+¿Hubo alguna cabina que concentrara muchos fallecidos?
+Con todas estas respuestas YO ELABORAÍA UNA CONCLUSIÓN y a partir de aquí cualquiera estaría capacitado para elegir bien tratar el dataset
+
+0. INFORMARSE DE LA NATURALEZA DEL DATO:
+ - revisión documental de antecedentes históricos sobre los datos y su génesis
+ - ¿Qué quiero hacer con la bbdd?
+ - Clasificación del tipo de variables (3 clasificaciones) presentes en la bbdd
+Inspección inicial de todo --> estadística + tipos de datos
+1.b Corregir tipo de dato si no va conforme a la tipo de variable
+2. División de bbdd en categóricas y cuatitavias
+ - df_cat = y + categóricas
+ - df_cua = y + cuantitativas
+3. Estudio de relaciones entre variables
+ - y vs categóricas
+ - y vs cuantitativas
+ - cuantitativas vs cuantitativas
+ - categóricas vs categóricas
+ - categóricas vs cuantitativas
+3.5 Selección de variables
+4. Limpieza de outliers
+4.5 foto estadística de datos
+5. Limpieza de missings
+5.5 foto estadística de datos
+6 creación de variables
+7 creación de modelos
+8 métricas
+9 valoración resultados
