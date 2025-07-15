@@ -33,6 +33,21 @@ Preguntas que yo me haría sobre el dataset del titanic...
 ¿Hubo alguna cabina que concentrara muchos fallecidos?
 Con todas estas respuestas YO ELABORAÍA UNA CONCLUSIÓN y a partir de aquí cualquiera estaría capacitado para elegir bien tratar el dataset
 
+
+NO CONTESTADAS:
+Preguntas que no se pueden responder:
+   - ¿Cuál es la edad más frecuente por puerto de embarque (Embarked)?
+   - ¿Qué puerto embarcó más pasajeros?
+   - ¿Qué clase de billete predominaba en cada puerto?
+   - ¿Qué puerto embarcó más mujeres que hombres?
+   - ¿Qué puerto tenía la mayor tasa de supervivencia?
+   - ¿Desde qué puerto partieron más personas con familia a bordo?
+   - ¿Cómo varía el Fare según Pclass y Embarked?
+   - ¿Cuál es el Fare promedio por clase y puerto?
+   - ¿Hubo más mujeres embarcadas en algún puerto específico?
+   - ¿Hubo alguna cabina que concentrara muchos fallecidos? (porque no tenemos 'Cabin')
+
+
 0. INFORMARSE DE LA NATURALEZA DEL DATO:
  - revisión documental de antecedentes históricos sobre los datos y su génesis
  - ¿Qué quiero hacer con la bbdd?
